@@ -1,0 +1,64 @@
+html {
+    background: rgb(159, 58, 180);
+    background: -moz-linear-gradient(0deg, rgba(159, 58, 180, 1) 0%, rgba(143, 203, 84, 1) 43%, rgba(29, 253, 219, 1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(159, 58, 180, 1) 0%, rgba(143, 203, 84, 1) 43%, rgba(29, 253, 219, 1) 100%);
+    background: linear-gradient(0deg, rgba(159, 58, 180, 1) 0%, rgba(143, 203, 84, 1) 43%, rgba(29, 253, 219, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#9f3ab4", endColorstr="#1dfddb", GradientType=1);
+    background-attachment: fixed;
+}
+
+.center {
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
+.logo {
+    padding-top: 2em;
+    width: 65%;
+}
+
+.text {
+    width: 50%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+
+ul {
+    list-style-type: upper-roman;
+}
+
+.manifesto {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -1.7em;
+}
+
+.lost-cause {
+    font-family: auto-pro-small-caps, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow: 1px 1px 4px #4f4732;
+    text-align: center;
+    color: #fff8e4;
+    font-size: 3.5em;
+}
+
+.lost-cause a,
+.lost-cause a:visited {
+    color: #fff8e4;
+    text-decoration: none;
+}
+
+.center {
+    margin: 0 auto 0 auto;
+    display: block;
+}
