@@ -1,4 +1,4 @@
-# bingus.faith [![pages-build-deployment](https://github.com/bingus-faith-foundation/bingus.faith/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/bingus-faith-foundation/bingus.faith/actions/workflows/pages/pages-build-deployment)
+# [bingus.faith](https://bingus.faith) [![pages-build-deployment](https://github.com/bingus-faith-foundation/bingus.faith/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/bingus-faith-foundation/bingus.faith/actions/workflows/pages/pages-build-deployment)
 
 ![](./assets/img/logo.png)
 
