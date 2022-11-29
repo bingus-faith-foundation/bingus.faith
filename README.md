@@ -2,7 +2,7 @@
 
 ![](./assets/img/logo.png)
 
-**Bingus Faith Foundation** - is a *virtual Non-Government Organization*, focused on privacy and personal cybersecurity. Founded by experts in information technology and cybersecurity, BFF advocates for better privacy practices and sets its goal to educate people about how to protect their data in a data-driven economy.
+**Bingus Faith Foundation** - is an independent collective focused on privacy and personal cybersecurity. Consisting of experts in information technology and cybersecurity, BFF advocates for better privacy practices and sets its goal to educate people about how to protect their data in a data-driven economy.
 
 ## Bingus Faith Foundation Manifesto
 
